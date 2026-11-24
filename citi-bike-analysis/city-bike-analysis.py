@@ -262,4 +262,3 @@ print(
 print("\nRider Type Counts:")
 print(df["member_casual"].value_counts())
 
-print("\nAll charts and output files saved in:")

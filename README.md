@@ -30,8 +30,9 @@ A bike-share operator needs to understand when rides occur, how member and casua
 
 
 ## Key insights to fill in after running
-- Total valid rides: [500000]
-- Member share: [60.50 %]
-- Casual share: [39.50 %]
+- Total valid rides: [208898]
+- Member share counts: [182554]
+- Casual share: [26344]
 - Peak hour/day: [17:00/Wednesday]
 - Median ride duration by rider type: [10.5,15.2]
+- Top start station: [W 21 St & 6 Ave]
